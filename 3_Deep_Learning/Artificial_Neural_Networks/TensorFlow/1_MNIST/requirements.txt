@@ -1,0 +1,10 @@
+keras==2.12.0
+numpy==1.23.4
+opencv_python==4.7.0.72
+pandas==1.5.1
+Pillow==9.3.0
+Pillow==9.5.0
+streamlit==1.22.0
+streamlit_drawable_canvas==0.9.2
+tensorflow==2.12.0
+tensorflow_intel==2.12.0
